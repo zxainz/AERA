@@ -1,0 +1,7 @@
+docker>=7.0
+PyJWT>=2.8
+requests>=2.31
+python-dotenv>=1.0
+
+# dev / test
+pytest>=8.0
